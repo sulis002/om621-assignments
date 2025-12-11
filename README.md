@@ -313,7 +313,7 @@ om621-assignments/
 │ └── invoice_timeseries.png
 │
 ├── pbi/
-│ └── om621_dashboard.pbix # optional, for dashboard integration
+│ └── assignment4.pbix
 │
 └── README.md
 
