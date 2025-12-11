@@ -333,6 +333,6 @@ Each assignment contributes to a complete, decision-ready analytics narrative.
 
 ---
 
-# 🙌 Acknowledgments  
-Thank you to the OM 621 instructional team for guidance, support, and feedback throughout the course.
+# 🙌 Acknowledgment 
+Thank you to Prof. Majid Karimi for guidance, support, and feedback throughout the course.
 
