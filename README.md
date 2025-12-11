@@ -8,18 +8,10 @@ layout: page
 nav_order: 1
 ---
 
-# 🧠 OM 621 Analytics Portfolio  
-**Author:** Natasha Christina Sulistyo  
-**Course:** OM 621 — Tools & Technologies for Analytics  
-**Semester:** Fall 2025  
-
----
-
-# 🎥 Video Overview (3–5 Minutes)
+## 🎥 Video Overview (3–5 Minutes)
 
 <iframe src="https://drive.google.com/file/d/1-X7hjIxO86yzcB3tOUyDtnnXDm-EfONQ/preview" 
 width="850" height="480" allow="autoplay"></iframe>
-
 ---
 
 # 📌 Project Overview
