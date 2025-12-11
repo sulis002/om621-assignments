@@ -54,7 +54,7 @@ As an external analytics expert previously engaged in logistics optimization, yo
 ---
 
 ### **What — Recommendation**
-You propose the adoption of a **predictive analytics system** to:
+I propose the adoption of a **predictive analytics system** to:
 
 - Forecast transportation costs  
 - Improve budgeting accuracy  
@@ -66,7 +66,7 @@ This highlights the business stakes and motivates decision-makers.
 ---
 
 ### **How — Presentation Strategy**
-Your approach uses:
+Approach uses:
 
 - Historical shipment and invoice data  
 - Predictive models to estimate upcoming transportation costs  
@@ -134,7 +134,7 @@ Visualizations include line charts, clustered bar charts, scatterplots, and slop
 
 ## 🔹 5. Storyboard Summary
 
-Your storyboard includes five conceptual stages:
+My storyboard includes five conceptual stages:
 
 1. **Problem framing** — Budget unpredictability from late invoices  
 2. **Data reality** — Operational lags, trends in shipments and costs  
@@ -227,7 +227,6 @@ Assignment 3 expands upon Assignment 2 with structured visual analytics and conc
 
 ## 🔹 1. Delay Distribution by Mode  
 A delay distribution plot was generated and exported as:
-
 
 This section evaluates:
 
