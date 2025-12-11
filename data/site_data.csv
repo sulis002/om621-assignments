@@ -1,0 +1,7 @@
+manufacturing_site,city,country,access_to_tms,shipping_options,parcel_1st_choice,parcel_2nd_choice,measurement_units,currency
+US77,Louisville,USA,Full,Customer and DC,UPS,FedEx,US Customary Units,USD
+US62,Cincinnati,USA,Limited,DC,UPS,USPS,US Customary Units,USD
+TH2E,Chon Buri,Thailand,Full,DC,Flash Express,Kerry Express,Metric,Thai Baht
+CH22,Guangzhou,China,Limited,DC,China Post,DHL,Metric,Yuan
+NL6F,Rotterdam,Netherland,Full,Customer and DC,DHL,NA,Metric,Euro
+NA,NA,NA,NA,NA,NA,NA,NA,USD
