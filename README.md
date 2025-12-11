@@ -15,10 +15,10 @@ nav_order: 1
 
 ---
 
-## 🎥 Video Overview (3–5 Minutes)
+# 🎥 Video Overview (3–5 Minutes)
 
-➡️ *A short video introducing the project, methods, and dashboard will appear here once uploaded.*
-
+<iframe src="https://drive.google.com/file/d/1-X7hjIxO86yzcB3tOUyDtnnXDm-EfONQ/preview" 
+width="850" height="480" allow="autoplay"></iframe>
 
 ---
 
